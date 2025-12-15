@@ -78,3 +78,6 @@ A telescopic op-amp is a **single-stage, cascoded amplifier topology** optimized
 * AC analysis using NGSpice
 
 ---
+##  License
+
+This project is intended for **educational and academic purposes only**.
