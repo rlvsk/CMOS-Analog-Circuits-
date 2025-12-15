@@ -3,7 +3,7 @@
 
 ---
 
-## 📖 Project Description
+##  Project Description
 This repository documents the **design and small-signal AC analysis of a Telescopic CMOS Operational Amplifier**
 implemented using the **SkyWater SKY130A PDK**.  
 The schematic is created in **Xschem**, and simulations are executed with **NGSpice** in a Linux-based workflow.
@@ -13,7 +13,7 @@ influence **gain, bandwidth, and frequency response** of a single-stage telescop
 
 ---
 
-## 🧰 Design Environment
+##  Design Environment
 - **Process Technology:** SkyWater 130nm (SKY130A)
 - **Schematic Tool:** Xschem
 - **Simulator:** NGSpice
@@ -21,7 +21,7 @@ influence **gain, bandwidth, and frequency response** of a single-stage telescop
 
 ---
 
-## 🏗️ Op-Amp Architecture
+##  Op-Amp Architecture
 A telescopic op-amp is a **single-stage, cascoded amplifier topology** optimized for high gain and speed.
 
 ### Main Building Blocks
@@ -38,7 +38,7 @@ A telescopic op-amp is a **single-stage, cascoded amplifier topology** optimized
 
 ---
 
-## ⚡ Simulation Configuration
+##  Simulation Configuration
 
 ### AC Analysis Command
 ```spice
@@ -55,11 +55,11 @@ A telescopic op-amp is a **single-stage, cascoded amplifier topology** optimized
 ```
 
 ---
-## 📈 Simulation Results
+##  Simulation Results
 <img width="700" height="535" alt="image" src="https://github.com/user-attachments/assets/3b17232f-046a-468a-a4de-54e0e6884c8d" />
 ---
 
-## 🧠 Design Insights
+##  Design Insights
 
 * Cascoding significantly increases output resistance → higher gain
 * Proper biasing is critical for:
@@ -70,7 +70,7 @@ A telescopic op-amp is a **single-stage, cascoded amplifier topology** optimized
 * Single-stage nature avoids the need for Miller compensation
 
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 
 * Understanding telescopic op-amp architecture
 * Hands-on experience with Sky130A PDK
