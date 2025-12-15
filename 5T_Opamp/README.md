@@ -106,5 +106,7 @@ Through this project, the following concepts were reinforced:
 This repository serves as a reference for beginners in analog IC design and for anyone exploring compact OTA architectures using open-source tools.
 
 ---
+## License
 
+This project is intended for **educational and academic purposes only**.
 
