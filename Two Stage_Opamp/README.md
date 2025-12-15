@@ -110,3 +110,6 @@ This project helped reinforce the following concepts:
 This repository can be used as a reference for students and engineers learning classical CMOS op-amp design using open-source EDA tools.
 
 ---
+##  License
+
+This project is intended for **educational and academic purposes only**.
